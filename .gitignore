@@ -1,0 +1,23 @@
+# Keil MDK
+*.uvguix.*
+*.scvd
+*.dbgconf
+*.ini
+JLinkLog.txt
+JLinkSettings.ini
+*.bak
+
+# Objects (编译中间产物)
+Objects/
+Listings/
+
+# Debug
+DebugConfig/
+
+# RTE
+RTE/
+
+# IDE
+.vscode/
+*.uvoptx
+*.uvguix.*
